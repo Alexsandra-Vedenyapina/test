@@ -10,13 +10,10 @@ public class MyTestProg_0 {
     System.out.println("Площадь квадрата: " + s.l + " = " + s.area());
 
     Rectangle r = new Rectangle(4,6);
-        System.out.println("Area of a Rectangle with sides " + r.a + " and " + r.b + " = " + r.area());
+    System.out.println("Area of a Rectangle with sides " + r.a + " and " + r.b + " = " + r.area());
 
-    double x1 = 1;
-    double y1 = 1;
-    double x2 = 3;
-    double y2 = 4;
-    System.out.println("Дистанция между точкой P1 (" + x1 + " , " + y1 + ") " + " и точкой P2 (" + x1 + " , " + y1 + ") " + distance(x1,y1,x2,y2));
+    Point p =new Point(1,1,2,2);
+    System.out.println("Дистанция между точкой P1 (" + p.x1 + " , " + p.y1 + ") " + " и точкой P2 (" + p.x1 + " , " + p.y1 + ") = " + p.distance());
 
   }
 
@@ -24,13 +21,6 @@ public class MyTestProg_0 {
    System.out.println("Hello, " + Hello + "!");
   }
 
-  public static double distance(
-          double x1,
-          double y1,
-          double x2,
-          double y2) {
-    return Math.sqrt((y2 - y1) *  (y2 - y1) + (x2 - x1) *  (x2 - x1));
-  }
 
 
 }
