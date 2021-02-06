@@ -1,8 +1,8 @@
-qa/alved/test/sanbox/Squer.java
- qa.alved.test.sanbox.Squer
-qa/alved/test/sanbox/Rectangle.java
- qa.alved.test.sanbox.Rectangle
 qa/alved/test/sanbox/Point.java
  qa.alved.test.sanbox.Point
+qa/alved/test/sanbox/Rectangle.java
+ qa.alved.test.sanbox.Rectangle
 qa/alved/test/sanbox/MyTestProg_0.java
  qa.alved.test.sanbox.MyTestProg_0
+qa/alved/test/sanbox/Square.java
+ qa.alved.test.sanbox.Square

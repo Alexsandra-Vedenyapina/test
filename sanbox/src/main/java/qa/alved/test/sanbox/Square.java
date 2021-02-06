@@ -1,9 +1,9 @@
 package qa.alved.test.sanbox;
 
-public class Squer {
+public class Square {
   public double l;
 
-  public Squer(double l) {
+  public Square(double l) {
     this.l = l;
   }
 

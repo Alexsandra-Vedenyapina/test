@@ -1,0 +1,2 @@
+qa/alved/test/sanbox/SquareTests.java
+ qa.alved.test.sanbox.SquareTests

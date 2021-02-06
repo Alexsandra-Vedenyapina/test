@@ -6,7 +6,7 @@ public class MyTestProg_0 {
     hello("user");
     hello("Alex");
 
-    Squer s = new Squer(5);
+    Square s = new Square(5);
     System.out.println("Площадь квадрата: " + s.l + " = " + s.area());
 
     Rectangle r = new Rectangle(4,6);
