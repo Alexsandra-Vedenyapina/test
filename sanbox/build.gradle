@@ -13,6 +13,7 @@ dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.6.0'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
     implementation 'com.buschmais.jqassistant.plugin:testng:1.9.0'
+    implementation 'com.thegoate:testng:0.15.8.202102061107'
 }
 
 test {
